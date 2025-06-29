@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
-
 **I love working with**
 
 <div display="flex">
@@ -23,16 +21,14 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Distributed Systems
+- Compilers
+- Computer Architeture
 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/bryan-riveragarcia/">
+  <a href="https://www.linkedin.com/in/bryan-riveragarcia/" target="_blank" rel="noopener" rel="noreferrer" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
