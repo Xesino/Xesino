@@ -29,8 +29,8 @@
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/bryan-riveragarcia/ " 
-     target="_blank" 
-     rel="noopener noreferrer">
+     onclick="window.open(this.href); return false;" 
+     title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn"/>
   </a>
