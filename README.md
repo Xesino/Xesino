@@ -28,9 +28,8 @@
 ### 📫 How to reach me
 
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/bryan-riveragarcia/ " 
-     onclick="window.open(this.href); return false;" 
-     title="LinkedIn">
+  <a href=" https://www.linkedin.com/in/bryan-riveragarcia/ " 
+     onclick="window.open(this.href); return false;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn"/>
   </a>
