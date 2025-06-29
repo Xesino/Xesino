@@ -11,7 +11,7 @@
 ### 🔭 I’m working on
 
 - Projects for Gameboy Emulator.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Growing my experience with Web Development and Business Intelligence. 
 
 ### 🌱 I’m learning
 
